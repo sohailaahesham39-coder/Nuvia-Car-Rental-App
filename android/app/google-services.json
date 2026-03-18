@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100393572806",
+    "project_id": "nuvia-91973",
+    "storage_bucket": "nuvia-91973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100393572806:android:2d5248abe791efdec8fac7",
+        "android_client_info": {
+          "package_name": "com.example.nouuuu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100393572806-jo5etkcift0gd1if5r1kic30tfahr9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3OTAjNArWopGu5GWi42oYWHEG7v_RfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100393572806-jo5etkcift0gd1if5r1kic30tfahr9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
