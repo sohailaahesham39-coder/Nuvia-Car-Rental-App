@@ -172,15 +172,6 @@ ios/Runner/GoogleService-Info.plist      ← Firebase iOS config
 
 ---
 
-## 🎓 Academic Context
-
-> **Graduation Project** — Sadat Academy for Management and Sciences, Faculty of Management Sciences, Major: BIS
->
-> **Supervisor:** Dr. Heba Sabry
->
-> **Team:** Ibrahim Khaled Ibrahim Eldesoky · Fawzya Mohamed Sayed Bayoumy · Tarek Ehab Gamal Eldin El Hadary · Mostafa Radwan El Sayed Mousa
-
----
 
 ## 🔮 Future Roadmap
 
